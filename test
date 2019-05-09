@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        body{
+            background-color: rgb(255, 0, 0);
+            
+            
+        } 
+  .Yellow{
+      color: rgb(255, 213, 5);
+      
+  }
+        </style>
+    </head>
+    <body>
+       
+        <h1 class= "Yellow">CHINA BUFFET's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#chow">Chow Chow Noodle</a></li>
+            <li> <a href= "#pork"> Rabbit Delight </a> </li> 
+        </ol>
+        
+        <h2 id="#chow">Chow Chow Noodle</h2>
+        
+        <img src= "https://upload.wikimedia.org/wikipedia/commons/1/13/Hakka_Noodles.JPG" alt= "blind people" width="300"  >
+        
+    
+        <ul>
+            <li>Time: 1 hour</li>
+            <li>Serves: One big family</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <td> Chow chow meat
+            <td> 5 pounds
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> get Chow Chow meat from market </p>
+        
+        <p> <strong> Step 2:</strong> Cook. Buy noddle. cook more. Done
+</p>
+        
+    <p><em>Source: </em> <a href="https://www.recipetineats.com/chicken-chow-mein/">Recipietineats</a></p>
+    
+    <h2 id= "pork"> Rabbit Delight</h2>
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/3/3b/Rabbit_in_montana.jpg" width = "300">
+    <ul>
+        <li> Time: 1 hour </li>
+        <li> Serves: This serves all of China
+        
+    </ul>
+    <table>
+    <thead>
+        <th>
+            Ingredients
+            
+        </th>
+        <th>
+        Quanity
+        
+        </th> 
+        </thead>
+        
+        <tbody>
+            
+            <td> Rabbot Meat </td>
+            
+            <td> 1 </td>
+             
+    
+            
+        </tbody>
+        
+        <p> <strong> Step 1 </strong> : Cook rabbit meat </p>
+        
+        <p> <strong> Step 2</strong> : pour souce and give to one big family </p>
+        
+
+        
+            
+    </table>
+    
+    </body>
+</html>
